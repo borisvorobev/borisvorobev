@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boris Vorobev</h1>
-<h3 align="center">A passionate frontend developer from NY</h3>
+<h3 align="center">Senior Software Engineer/Frontend Developer</h3>
 
 📫 How to reach me **boriscvorobev@gmail.com**
 
