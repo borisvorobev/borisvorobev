@@ -1,7 +1,6 @@
-Hi 👋, I'm Boris Vorobev
-Senior Software Engineer/Frontend Developer
+Hi 👋, I'm Boris Vorobev - Senior Software Engineer/Frontend Developer
 
-📫 How to reach me **boriscvorobev@gmail.com**
+📫 How to reach me: **boriscvorobev@gmail.com**
 
 Connect with me:
 <p align="left">
